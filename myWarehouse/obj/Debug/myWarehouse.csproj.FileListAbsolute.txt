@@ -1,0 +1,13 @@
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\bin\Debug\myWarehouse.exe
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\bin\Debug\myWarehouse.pdb
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\obj\Debug\myWarehouse.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\obj\Debug\myWarehouse.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\obj\Debug\myWarehouse.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\obj\Debug\myWarehouse.exe
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\obj\Debug\myWarehouse.pdb
+d:\documents\visual studio 2013\Projects\myWarehouse\myWarehouse\obj\Debug\myWarehouse.FormMain.resources
+D:\Documents\Visual Studio 2013\Projects\myWarehouse\myWarehouse\bin\Debug\SQLite.Designer.dll
+D:\Documents\Visual Studio 2013\Projects\myWarehouse\myWarehouse\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2013\Projects\myWarehouse\myWarehouse\bin\Debug\SQLite.Designer.pdb
+D:\Documents\Visual Studio 2013\Projects\myWarehouse\myWarehouse\bin\Debug\System.Data.SQLite.pdb
+D:\Documents\Visual Studio 2013\Projects\myWarehouse\myWarehouse\bin\Debug\myWarehouse.exe.config
