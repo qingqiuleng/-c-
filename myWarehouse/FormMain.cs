@@ -11,16 +11,18 @@ namespace myWarehouse
 {
     public partial class FormMain : Form
     {
+        private myWarehouse.data.dataSqlite m_myData;
         public FormMain()
         {
             InitializeComponent();
-            myWarehouse.data.dataSqlite myData = new myWarehouse.data.dataSqlite();
-            myData.createTable();
-            myData.initTable();
+            m_myData = new myWarehouse.data.dataSqlite();
+            m_myData.createTable();
+            m_myData.initTable();
         }
 
         private void Enter_Click(object sender, EventArgs e)
         {
+            m_myData.insertCount(textBox1.Text, textBox2.Text);
             Hide();
         }
 
